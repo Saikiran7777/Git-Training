@@ -1,5 +1,5 @@
 #!/bin/bash
-#This will give all numbers from 1 to 100
+#This will give all numbers from 1 to 100  By Linux User
 for i in {1..100}
 do
 if [ $(expr $i % 2) -eq 0 ]
