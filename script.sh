@@ -9,4 +9,4 @@ else
 echo "$i is a odd number except it is zero"
 fi
 done
-#End of the script......!
+#End of the script......!by sai
