@@ -1,3 +1,4 @@
+#This will give all numbers from 1 to 100 by windows
 #!/bin/bash
 #This will give all numbers from 1 to 100 by windows
 for i in {1..100}; do
