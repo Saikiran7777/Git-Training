@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "*/ * * * *"
 
   # Allow workflow to be manually run from the GitHub UI
   workflow_dispatch:
