@@ -25,4 +25,4 @@ jobs:
         with:
           last_commit_age_days: 100
           dry_run: no
-          ignore_branches: v1
+          
